@@ -1,0 +1,15 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: E:/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_cw305_reg_aes_behav xil_defaultlib.tb_cw305_reg_aes xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-3180] cannot find port 'done' on this module [E:/Vivado/2024.2/cw305_aes/cw305_aes.srcs/sources_1/new/tb_cw305_reg_aes.v:21]
+ERROR: [VRFC 10-3180] cannot find port 'ciphertext' on this module [E:/Vivado/2024.2/cw305_aes/cw305_aes.srcs/sources_1/new/tb_cw305_reg_aes.v:20]
+ERROR: [VRFC 10-3180] cannot find port 'start' on this module [E:/Vivado/2024.2/cw305_aes/cw305_aes.srcs/sources_1/new/tb_cw305_reg_aes.v:19]
+ERROR: [VRFC 10-3180] cannot find port 'key' on this module [E:/Vivado/2024.2/cw305_aes/cw305_aes.srcs/sources_1/new/tb_cw305_reg_aes.v:18]
+ERROR: [VRFC 10-3180] cannot find port 'plaintext' on this module [E:/Vivado/2024.2/cw305_aes/cw305_aes.srcs/sources_1/new/tb_cw305_reg_aes.v:17]
+ERROR: [VRFC 10-3180] cannot find port 'reset' on this module [E:/Vivado/2024.2/cw305_aes/cw305_aes.srcs/sources_1/new/tb_cw305_reg_aes.v:16]
+ERROR: [VRFC 10-3180] cannot find port 'clk' on this module [E:/Vivado/2024.2/cw305_aes/cw305_aes.srcs/sources_1/new/tb_cw305_reg_aes.v:15]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

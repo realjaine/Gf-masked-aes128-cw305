@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Jun 19 23:04:08 2026
+# Process ID         : 21240
+# Current directory  : C:/Users/91883/Downloads/SIR_DWAREA/project_1_GF_BASED_AES
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent27372 C:\Users\91883\Downloads\SIR_DWAREA\project_1_GF_BASED_AES\project_1_LUT_BASED_AES.xpr
+# Log file           : C:/Users/91883/Downloads/SIR_DWAREA/project_1_GF_BASED_AES/vivado.log
+# Journal file       : C:/Users/91883/Downloads/SIR_DWAREA/project_1_GF_BASED_AES\vivado.jou
+# Running On         : JAINEEEE
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 5 4500U with Radeon Graphics         
+# CPU Frequency      : 2371 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 6
+# Host memory        : 7968 MB
+# Swap memory        : 17855 MB
+# Total Virtual      : 25824 MB
+# Available Virtual  : 6107 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/91883/Downloads/SIR_DWAREA/project_1_GF_BASED_AES/project_1_LUT_BASED_AES.xpr
